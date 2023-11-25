@@ -5,6 +5,7 @@
 
 ## Package and Library Installations
 ```bash
+npm init
 npm install --save-dev @babel/cli
 npm install --save-dev @babel/core
 npm install --save-dev @babel/node
