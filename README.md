@@ -2,6 +2,7 @@
 ## Info
   Creating and sending requests for iyzico payment system APIs (3D payment, cancellation, refund, initializer, card storage, adding card, deleting card, etc.) using Node JS. router/service configuration, data encryption
   After the package installation is completed, update the dotenv and dotprod files in the env file according to your system.
+  After running the "npm init" command and determining the installation settings, update the package.json file according to the settings in the attached package.json file.
 
 ## Package and Library Installations
 ```bash
