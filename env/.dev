@@ -2,6 +2,6 @@ DEPLOYMENT=DEVELOPMENT
 HTTPS_ENABLED=true
 PORT=443
 LOGGER=dev
-MONGO_URI=mongodb+srv://Iyzico:AHy6tVGDeaE3AxhI@iyzico.rkbaxqs.mongodb.net/development?retryWrites=true&w=majority
-JWT_SECRET=wajsu_T-8mw7gJPcL4TzOcXSyojpTR_7jXmuvWyfDrI
-END_POINT=https://192.168.56.1/api
+MONGO_URI=//monogb connection string
+JWT_SECRET=//token secret key
+END_POINT=//start url
