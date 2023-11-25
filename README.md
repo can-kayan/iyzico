@@ -1,9 +1,9 @@
 # Iyzico and Node.js API services 
-##Info
+## Info
   Creating and sending requests for iyzico payment system APIs (3D payment, cancellation, refund, initializer, card storage, adding card, deleting card, etc.) using Node JS. router/service configuration, data encryption
   After the package installation is completed, update the dotenv and dotprod files in the env file according to your system.
 
-##Package and Library Installations
+## Package and Library Installations
 ```bash
 npm instal --save-dev @babel/cli
 npm instal --save-dev @babel/core
@@ -28,12 +28,12 @@ npm install passport
 npm install passport-jwt
 npm install uuid
 ```
-##Start
+## Start
 ```bash
 npm start dev
 npm start production
 ```
-##Build
+## Build
 ```bash
 npm run build
 ```
