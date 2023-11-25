@@ -5,11 +5,11 @@
 
 ## Package and Library Installations
 ```bash
-npm instal --save-dev @babel/cli
-npm instal --save-dev @babel/core
-npm instal --save-dev @babel/node
-npm instal --save-dev @babel/preset-env
-npm instal --save-dev @babel/register
+npm install --save-dev @babel/cli
+npm install --save-dev @babel/core
+npm install --save-dev @babel/node
+npm install --save-dev @babel/preset-env
+npm install --save-dev @babel/register
 npm install bcryptjs
 npm install cors
 npm install dotenv
