@@ -2,3 +2,6 @@ DEPLOYMENT=PRODUCTION
 HTTPS_ENABLED=false
 PORT=8080
 LOGGER=tiny
+MONGO_URI=mongodb+srv://Iyzico:AHy6tVGDeaE3AxhI@iyzico.rkbaxqs.mongodb.net/production?retryWrites=true&w=majority
+JWT_SECRET=wajsu_T-8mw7gJPcL4TzOcXSyojpTR_7jXmuvWyfDrI
+END_POINT=https://cankayan.herokuapp.com/api
