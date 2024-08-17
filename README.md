@@ -4,6 +4,9 @@
   After the package installation is completed, update the dotenv and dotprod files in the env file according to your system.
   After running the "npm init" command and determining the installation settings, update the package.json file according to the settings in the attached package.json file.
 
+##Postman
+  https://documenter.getpostman.com/view/23652874/2sA3s9C8Hd
+
 ## Package and Library Installations
 ```bash
 npm init
