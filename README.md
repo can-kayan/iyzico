@@ -10,29 +10,12 @@
 ## Package and Library Installations
 ```bash
 npm init
-nom install
+npm install
 npm install --save-dev @babel/cli
 npm install --save-dev @babel/core
 npm install --save-dev @babel/node
 npm install --save-dev @babel/preset-env
-npm install --save-dev @babel/register
-npm install bcryptjs
-npm install cors
-npm install dotenv
-npm install express
-npm install express-async-errors
-npm install helmet
-npm install https
-npm install iyzipay
-npm install jsonwebtoken
-npm install lodash
-npm install moment
-npm install mongoose
-npm install morgan
-npm install nanoid
-npm install passport
-npm install passport-jwt
-npm install uuid
+npm install --save-dev @babel/register 
 ```
 ## Start
 ```bash
